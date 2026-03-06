@@ -1,9 +1,3 @@
-# Ecommerce_Sales_Analysis
-Ecommerce Sales Analysis project showcasing sales analysis using python, SQL, and powerBI.
-Here is your **simple GitHub README content** (clean text format, no extra code blocks):
-
----
-
 # Indian E-Commerce Pricing & Revenue Growth Analysis (36 Months)
 Project Overview
 This is an end-to-end Data Analysis project focused on analyzing Indian e-commerce pricing trends and revenue growth over a 36-month period.
